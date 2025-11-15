@@ -1894,7 +1894,7 @@ Tracking prevention enables the host app to control the level of tracking preven
 
 Microsoft Defender SmartScreen ("SmartScreen") is enabled by default.  The `IsReputationCheckingRequired` property controls whether SmartScreen is enabled.
 
-If you don't disable SmartScreen, you must provide notice to all users that your software includes Microsoft Defender SmartScreen, and collects and sends the user's information to Microsoft as disclosed in [Microsoft Privacy Statement](https://aka.ms/privacy) and in [SmartScreen](/legal/microsoft-edge/privacy#smartscreen) in _Microsoft Edge Privacy Whitepaper_.
+If you don't disable SmartScreen, you must provide notice to all users that your software includes Microsoft Defender SmartScreen, and collects and sends the user's information to Microsoft as disclosed in [Microsoft Privacy Statement](https://aka.ms/privacy) and in [SmartScreen](/legal/microsoft-edge/privacy#smartscreen) in _User data and privacy in Microsoft Edge_.
 
 See also:
 * [SmartScreen](./data-privacy.md#smartscreen) in _Data and privacy in WebView2_.
@@ -2613,7 +2613,7 @@ iframes allow you to embed other webpages into your own webpage.  In WebView2, y
 See also:
 * [Host/web object sharing](#hostweb-object-sharing), above
 * [Using frames in WebView2 apps](./frames.md)
-* [Track navigation history for nested iframes (FrameCreatedEvent API)](../release-notes/index.md#track-navigation-history-for-nested-iframes-framecreatedevent-api) in _Release Notes for the WebView2 SDK_.
+* [Track navigation history for nested iframes (FrameCreatedEvent API)](../release-notes/archive.md#track-navigation-history-for-nested-iframes-framecreatedevent-api) in _Archived Release Notes for the WebView2 SDK_.
 
 ##### [.NET/C#](#tab/dotnetcsharp)
 
